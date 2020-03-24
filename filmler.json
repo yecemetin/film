@@ -1,0 +1,99 @@
+{
+   "Filmler":[
+      {
+          "ID":"1",
+          "Resim":"",
+          "Baslik":"3 Idiots",
+          "Aciklama":"Hindistan'ın en iyi mühendislik okuluna başlayan öğrencilerin hayatını anlatıyor özet olarak. Sistemin daima yarış üzerine kurulu olduğu, herkesin en iyi olmaya çabaladığı bir okulda sistemi değiştirmeye çalışan bir öğrenci ve onun en yakın 2 arkadaşı. Başlarından geçenler, hayattan aslında ne istedikleri.Ranco karakterinin başrol oynadığı film dram ve komedi türünü en iyi şekilde harmanlayıp bize öğretici bir film olmakta.",
+          "Imdb":"8.4",
+          "Kategori":"Komedi"
+
+      }
+      {
+          "ID":"2",
+          "Resim":"",
+          "Baslik":"Ayı Teddy",
+          "Aciklama":"8 yaşındaki John bir Noel gecesi sevgili oyuncak ayısının canlanmasını, kendisiyle konuşmasını diler ve ertesi sabah en iyi arkadaşı olan oyuncak ayı Ted, konuşan canlı bir ayıcığa dönüşür! John artık yalnız değildir aksine çok mutludur ama atladığı ufak bir detay vardır: Herkes büyür! Artık 30'lu yaşlarının ortasında olan John ayı Ted ile bir ömür geçirmiş, aynı evi paylaşmıştır. Dahası Ted de insan hayatına uyum sağlamış, John'dan daha çapkın, daha edepsiz ama bir o kadar da şirin bir yaratık olmuştur. Tek bir sorun vardır, Ted John'u hiç kimseyle paylaşmak istemez; bir seneden fazladır sevgilisi olan Lori'yle bile. John ise kendi hayatına devam edebilmek için ted'den ayrılmak zorunda olduğunu hisseder... 'Büyükler için çizgi film' kategorisinin en sevilen ürünlerinden olan Family Guy’ın yaratıcısı Seth MacFarlane'nin beyazperde için ortaya çıkarttığı sıra dışı bir iş olan Ayı Teddy yurtdışında gösterime girdiği her ülkede hem seyircilerin hem de eleştirmenlerden yüksek not almayı başarmış bir yapım.",
+          "Imdb":"7.6",
+          "Kategori":"Komedi"
+
+      }
+      {
+          "ID":"3",
+          "Resim":"",
+          "Baslik":"Esaretin Bedeli",
+          "Aciklama":" Andy ve Red isimli iki mahkumun parmaklıklar ardında kurdukları dünyanın hikayesini anlatıyor. Andy Dufresne, genç ve başarılı bir bankerdir. Karısını ve karısının sevgilisini öldürmek suçundan yargılanır ve ömür boyu hapis cezası alır. Shawsank Hapishanesi'nde dayak, işkence, tecavüz, her türlü durum yaşanmaktadır fakat Andy gene de hayata bağlı ve iyimserdir. Bu tutumu etrafındakileri de etkiler. Andy umutlu bakış açısıyla çevresindeki tüm mahkumları, parmaklıklar arkasında bile özgür bir yaşam olabileceğine inandırır.",
+          "Imdb":"8.0",
+          "Kategori":"Dram"
+
+      }
+      {
+          "ID":"4",
+          "Resim":"",
+          "Baslik":"Karayip Korsanları",
+          "Aciklama":"Valinin kızı Elizabeth Swann, bir korsan olan Kaptan Barbossa tarafından kaçırılır. Başka bir korsan Jack Sparrow, Elizabethin çocukluk arkadaşı Will Turner ile işbirliği yaparak, kızı kurtarmaya çalışır. Peşine düştükleri korsanların ise gücünü ayışığından alan bir lanetleri vardır. Yaşam ile ölüm arasındaki sınırı aşmak ve güçlerine kavuşmak için kaçırdıkları genç kadını kullanmak istemektedirler.
+
+",
+          "Imdb":"8.0",
+          "Kategori":"Aksiyon"
+
+      }
+       {
+          "ID":"5",
+          "Resim":"",
+          "Baslik":"Leon : Sevginin Gücü",
+          "Aciklama":"Mathilda, New York'ta yaşayan ailesi dağılmış 12 yaşında küçük bir kızdır. Ailesini sevmeyen Mathilda için en değerli varlığı küçük kardeşidir. Babası uyuşturucu işlerine bulaşınca mafya ailenin tüm bireylerini öldürür. O sırada alışverişte olan Mathilda ise olaydan kılpayı kurtulur ve Leon'un kaldığı daireye saklanır.",
+          "Imdb":"8.4",
+          "Kategori":"Dram"
+
+      }
+      {
+          "ID":"6",
+          "Resim":"",
+          "Baslik":"The Notebook",
+          "Aciklama":"şlılar için yapılmış bir bakımevinde yaşayan ve çevresindekiler tarafından 'Duke' diye çağırılan ihtiyar adam sararmış defterinde yazılı olan bir aşk hikayesini okumaya başlar. Hikaye 1940 yılında başlar. Güney Carolina'da yer alan Seabrook Adası'na Allie Hamilton isimli 17 yaşında bir genç kız gelir. Ailesiyle birlikte tatile gelen Allie, burada yaşayan Noah isimli bir gençle yakınlaşmaya başlar. Aralarındaki sınıfsal ve ekonomik farklılıklara rağmen birbirlerine duydukları hissi engellemez, doyasıya yaşamaya başlarlar. Ancak onları bekleyen ayrılık 2. Dünya Savaşı'nın kızışmasıyla birlikte gelmek üzeredir.",
+          "Imdb":"8.0",
+          "Kategori":"Romantik"
+
+      }
+      {
+          "ID":"7",
+          "Resim":"",
+          "Baslik":"Titanic",
+          "Aciklama":"James Cameron'ın yönetmenlik, senaristlik, ortak yapımcılık ve ortak kurgu yönetmenliğini yaptığı, 1997 yılı Amerikan yapımı, epik-romantik filmdir. RMS Titanic'in batışı üzerine kurgulanan filmin başrollerini geminin felaketle sonuçlanan ilk seyahati sırasında aşık olan farklı toplumsal sınıflara mensup iki genci canlandıran Leonardo DiCaprio ve Kate Winslet paylaşmaktadır.",
+          "Imdb":"7.0",
+          "Kategori":"Romantik"
+
+      }
+      {
+          "ID":"8",
+          "Resim":"",
+          "Baslik":"V For Vendetta",
+          "Aciklama":"V,  2020 yılında ve İngiltere’de geçiyor. Ülke, son derece baskıcı bir toplum düzenini yaşamaktadır. Türlü yasaklar ve engellerle idare edilen halk, şiddet yanlısı bir konuma gelmiştir. Bu kargaşanın orta yerinde görünen gizemli V, belaya bulaşmış masum bir kadın olan Evey’i kurtarır. Ancak bu kurtarış, tam da ulusun kurtuluşunu temsil eder çünkü onun davranışı aslında toplumun uyanışını tetikleyen ve başkaldırıyı başlatan unsurdur. Tam da bu sebeple artık insanlık adına bir ayaklanma zamanıdır. Alan Moore’un romanından uyarlanan film, son derece epik bir hikayedir.",
+          "Imdb":"8.0",
+          "Kategori":"Bilim Kurgu"
+
+      }
+      {
+          "ID":"9",
+          "Resim":"",
+          "Baslik":"Yeşil Yol",
+          "Aciklama":"Yeşil Yol, bir hapishane görevlisi ile bir mahkumun öyküsünü anlatıyor. Paul Edgecomb'un hapishanedeki görevi, idama mahkum edilen mahkumları son yolculuklarına uğurlamaktır. Çalıştığı yıllar içerisinde yüzlerce mahkumu idam etmiştir. Bir gün John Coffey isimli korkutucu görünümlü bir adamla tanışır. Ancak Coffey'in bu ürkütücü görünümünün altında oldukça saf bir ruh yatmaktadır. Coffey, iki küçük kız çocuğunun katil davasında yargılanmaktadır. Coffey'in günden güne gün yüzüne çıkan dünya ötesi güçleri, karakteri hakkında yeni ipuçlarını anbean ortaya çıkaracaktır.",
+          "Imdb":"8.4",
+          "Kategori":"Fantastik"
+
+      }
+      {
+          "ID":"10",
+          "Resim":"",
+          "Baslik":"Yıldızlararası",
+          "Aciklama":"Yıldızlararası'nda, teknik bilgisi ve becerisi yüksek olan Cooper, geniş mısır tarlalarında çiftçilik yaparak geçinmektedir; amacı iki çocuğuna güvenli bir hayat sunmaktır. Onlarla yaşayan Büyükbaba Donald çocuklara göz kulak olurken, henüz 10 yaşındaki kızı Murph şaşırtıcı bir zekaya sahiptir. Geçmişte bıraktığı biliminsanı kariyerini özleyen Cooper'un karşısına bir gün beklenmedik bir teklif çıkar ve ailesinin, dahası insanlığın güvenliği için zorlu bir karar alması gerekir.",
+          "Imdb":"7.8",
+          "Kategori":"Bilimkurgu"
+
+      }
+
+
+
+]
+}
